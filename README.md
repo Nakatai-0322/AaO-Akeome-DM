@@ -1,4 +1,4 @@
-# Auto-Akeome-Tweet
+# All at once Akeome "DM"
 
 ## せってぃんぐ
 
