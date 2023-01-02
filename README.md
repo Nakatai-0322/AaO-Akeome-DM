@@ -1,4 +1,4 @@
-# All at once Akeome "DM"
+# All at once Akeome DM
 
 ## せってぃんぐ
 
